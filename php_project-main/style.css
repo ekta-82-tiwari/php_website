@@ -1,0 +1,41 @@
+#bg_colour{
+	background-image: linear-gradient(122.53deg, rgb(76, 84, 210) 0%, rgb(191, 20, 162) 56.25%, rgb(247, 58, 28) 100%);
+}
+
+
+#bg_colour .form_page{
+	width:30%;
+	background-color:#323639;
+	border-radius:15px;
+	padding-bottom:15px;
+	position: relative;
+	top:15px;
+	display: block;
+	margin: 0 auto;
+}
+.form_page input{
+	width:65%;
+	padding:10px;
+	font-size:15px;
+	font-weight:600;
+	border-radius:10px;
+	display: block;
+	margin: 0 auto;
+	box-shadow:  0 6px 15px rgba(0, 0, 0, 0.4);
+
+}
+
+.form_page h1{
+	text-align:center;
+	color:#fff;
+	font-size:40px;
+	padding-top:10px;
+	
+}
+.form_page button{
+	padding:5px 25px 5px 25px;
+	font-size:20px;
+	border-radius:10px;
+	display: block;
+	margin:0 auto;
+}

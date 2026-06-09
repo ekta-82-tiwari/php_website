@@ -1,7 +1,7 @@
-# PHP Contact Form
+# PHP Login Form
 
 ## Description
-This is a simple contact form project built using PHP, HTML, CSS, and JavaScript. The form allows users to submit their information, which is processed on the server using PHP.
+This is a simple login form project built using PHP, HTML, CSS, and JavaScript. The form allows users to submit their information, which is processed on the server using PHP.
 
 ## Technologies Used
 - PHP
